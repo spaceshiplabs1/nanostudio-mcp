@@ -1,0 +1,10 @@
+{
+  "name": "nanostudio",
+  "version": "0.5.0",
+  "description": "Nano Studio Pro: AI product photography. Generate, restyle, cut out, upscale, animate, import, and search product images, organized into projects.",
+  "mcpServers": {
+    "nanostudio": {
+      "httpUrl": "https://nanostudiopro.com/api/mcp"
+    }
+  }
+}
