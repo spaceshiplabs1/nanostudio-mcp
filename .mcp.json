@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nanostudio": {
+      "type": "http",
+      "url": "https://nanostudiopro.com/api/mcp"
+    }
+  }
+}

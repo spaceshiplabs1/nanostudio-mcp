@@ -1,0 +1,22 @@
+{
+  "name": "nanostudio",
+  "displayName": "Nano Studio Pro",
+  "version": "0.9.0",
+  "description": "Personal asset search engine for AI agents: every photo and video you make or upload is detection-scanned and searchable by what is inside it. Generate, restyle, cut out, upscale, animate, and build sprite sheets.",
+  "author": {
+    "name": "Nano Studio Pro",
+    "url": "https://github.com/spaceshiplabs1"
+  },
+  "homepage": "https://nanostudiopro.com/docs/mcp",
+  "repository": "https://github.com/spaceshiplabs1/nanostudio-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "image-search",
+    "asset-search",
+    "product-photography",
+    "sprite-sheets",
+    "ai-images"
+  ]
+}
